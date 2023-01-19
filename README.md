@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umer Rajpoot</h1>
 <h3 align="center">A passionate mobile application developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umerrajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="umerrajpoot" /> </p>
-
 - 💬 Ask me about **react native**
 
 - 📫 How to reach me **iam.umerrajpoot@gmail.com**
